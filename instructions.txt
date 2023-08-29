@@ -1,0 +1,21 @@
+Requirements
+
+1. Python 3.11 https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
+2. Updated Google Chrome
+3. Google App Password https://support.google.com/accounts/answer/185833?hl=en
+
+
+Installation
+
+This instruction file is contained inside a zip file. 
+
+1. Extract zip file
+2. Open cmd and cd to the extracted folder
+3. Enter this command: pip install -r requirements.txt
+4. Edit .env
+
+Usage
+
+Simply run this command:
+
+python main.py
